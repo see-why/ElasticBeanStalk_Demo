@@ -1,2 +1,3 @@
-# Web-Scrapper
-Test Application to scrape data from a website.
+# ElasticBeanStalk_Demo
+
+Test Application to explore AWS Elastic beanstalk features.
